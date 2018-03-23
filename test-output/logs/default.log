@@ -1,0 +1,1400 @@
+2018-02-17 17:40:50,834 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:40:51,017 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:40:54,841 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:40:54,842 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:40:56,733 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-17 17:40:56,733 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-17 17:40:58,728 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-17 17:40:58,729 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-17 17:40:59,558 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-17 17:40:59,559 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-17 17:41:00,546 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-17 17:41:00,943 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-17 17:41:00,944 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-17 17:41:01,319 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:41:01,319 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:41:02,184 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:41:02,184 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-17 17:41:02,492 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-17 17:41:02,492 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-17 17:41:03,594 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-17 17:41:03,594 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-17 17:41:03,649 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-17 17:41:03,649 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-17 17:41:04,022 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-17 17:41:04,378 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-17 17:41:04,378 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-17 17:41:14,817 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-17 17:41:14,817 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-17 17:41:16,170 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-17 17:41:16,171 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:46:09,393 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:46:09,481 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:46:10,000 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:46:10,000 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:46:10,189 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:46:10,190 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:46:10,356 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-18 15:46:10,356 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-18 15:46:10,464 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:46:10,465 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:46:10,693 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-18 15:46:10,888 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:46:10,889 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:46:25,790 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:46:25,791 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:48:32,582 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:48:32,603 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:48:32,781 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:48:32,781 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:48:32,932 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:48:32,932 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:48:33,108 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-18 15:48:33,109 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-18 15:48:33,225 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:48:33,226 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:48:33,383 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-18 15:48:33,513 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:48:33,513 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:48:43,244 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:48:43,244 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:50:40,809 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:50:40,842 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:50:41,013 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:50:41,013 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:50:41,147 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:50:41,147 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:50:41,336 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-18 15:50:41,336 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-18 15:50:41,421 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:50:41,421 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:50:41,635 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-18 15:50:41,718 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:50:41,718 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:50:55,076 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:50:55,077 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:52:39,440 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:52:39,465 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:52:39,633 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:52:39,633 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-18 15:52:39,812 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:52:39,812 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 15:52:39,966 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-18 15:52:39,966 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-18 15:52:40,142 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:52:40,142 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 15:52:40,330 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-18 15:52:40,448 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:52:40,448 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:52:51,183 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 15:52:51,183 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 16:48:50,737 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 16:48:50,759 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 16:48:50,889 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-18 16:48:50,890 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-18 16:48:50,975 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 16:48:50,975 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-18 16:48:51,164 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-18 16:48:51,164 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-18 16:48:51,223 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 16:48:51,223 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-18 16:48:51,354 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-18 16:48:51,453 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 16:48:51,453 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 16:49:06,146 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-18 16:49:06,147 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-19 21:32:54,061 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-19 21:32:54,133 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-19 21:32:54,539 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-19 21:32:54,539 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-19 21:32:54,657 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-19 21:32:54,657 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-19 21:32:54,879 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-19 21:32:54,880 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-19 21:32:54,962 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-19 21:32:54,962 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-19 21:32:55,084 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-19 21:32:55,245 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-19 21:32:55,245 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-19 21:33:10,199 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-19 21:33:10,199 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 00:18:06,403 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:18:06,451 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:18:07,441 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:18:07,442 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:18:07,638 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-21 00:18:07,639 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-21 00:18:09,108 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-21 00:18:09,108 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-21 00:18:09,137 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-21 00:18:09,137 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-21 00:18:09,400 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-21 00:18:09,934 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 00:18:09,934 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 00:45:54,542 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:45:54,559 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:45:54,729 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:45:54,729 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-21 00:45:54,799 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-21 00:45:54,799 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-21 00:45:55,479 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-21 00:45:55,479 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-21 00:45:55,512 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-21 00:45:55,512 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-21 00:45:55,649 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-21 00:45:55,913 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 00:45:55,914 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 00:46:04,205 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 00:46:04,205 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 01:05:21,987 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 01:05:22,038 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 01:05:22,161 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-02-21 01:05:22,161 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-02-21 01:05:22,202 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-21 01:05:22,202 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-02-21 01:05:23,158 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-02-21 01:05:23,158 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-02-21 01:05:23,182 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-21 01:05:23,182 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-02-21 01:05:23,291 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-02-21 01:05:23,559 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 01:05:23,560 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 01:05:34,391 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-02-21 01:05:34,392 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 13:58:02,063 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 13:58:02,138 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 13:58:02,502 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 13:58:02,503 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 13:58:02,632 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 13:58:02,632 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-08 13:58:03,204 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 13:58:03,204 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 13:58:03,382 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-08 13:58:03,382 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-08 13:58:03,722 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 13:58:03,722 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 13:58:03,792 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-08 13:58:04,202 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 13:58:04,202 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 13:58:21,823 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 13:58:21,823 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:17:36,682 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:17:36,701 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:17:36,773 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:17:36,773 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:17:36,857 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:17:36,857 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:17:37,017 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:17:37,018 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:17:37,070 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-08 14:17:37,071 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-08 14:17:37,170 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:17:37,170 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:17:37,205 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-08 14:17:37,369 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:17:37,369 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:18:29,844 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:18:29,844 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:18:29,948 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:18:29,948 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:18:30,008 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:18:30,008 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:18:30,240 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:18:30,241 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:18:30,324 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-08 14:18:30,324 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-08 14:18:30,475 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:18:30,475 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:18:30,516 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-08 14:18:30,719 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:18:30,719 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:18:40,172 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:18:40,173 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:22:17,079 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:22:17,098 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:22:17,167 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:22:17,167 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:22:17,211 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:22:17,211 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:22:17,341 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:22:17,342 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:22:17,396 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-08 14:22:17,397 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-08 14:22:17,505 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:22:17,505 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:22:17,542 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-08 14:22:17,764 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:22:17,765 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:23:09,926 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:23:09,926 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:23:10,018 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:23:10,019 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:23:10,181 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:23:10,182 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-08 14:23:10,520 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:23:10,520 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-08 14:23:10,640 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-08 14:23:10,640 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-08 14:23:10,745 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:23:10,745 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-08 14:23:10,804 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-08 14:23:10,908 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:23:10,909 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:23:21,436 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-08 14:23:21,436 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:26:44,587 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:26:44,800 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:26:44,981 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:26:44,981 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:26:45,038 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:26:45,038 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:26:45,174 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-12 22:26:45,175 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-12 22:26:45,230 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-12 22:26:45,230 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-12 22:26:45,299 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:26:45,300 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:26:45,334 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-12 22:26:45,421 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:26:45,422 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:27:32,188 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:27:32,188 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:27:32,262 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:27:32,263 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:27:32,298 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:27:32,298 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:27:32,499 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-12 22:27:32,499 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-12 22:27:32,557 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-12 22:27:32,557 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-12 22:27:32,652 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:27:32,652 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:27:32,686 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-12 22:27:32,796 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:27:32,796 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:28:20,235 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:28:20,236 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:28:20,388 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:28:20,388 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:28:20,553 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:28:20,553 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-12 22:28:20,891 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-12 22:28:20,891 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-12 22:28:21,014 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-12 22:28:21,015 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-12 22:28:21,173 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:28:21,174 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-12 22:28:21,227 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-12 22:28:21,375 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:28:21,376 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:28:39,114 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-12 22:28:39,114 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:22:19,831 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:22:19,959 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:22:20,059 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:22:20,059 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:22:20,106 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:22:20,107 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:22:20,221 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-13 17:22:20,221 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-13 17:22:20,271 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-13 17:22:20,271 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-13 17:22:20,341 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:22:20,341 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:22:20,362 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-13 17:22:20,463 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:22:20,464 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:23:09,199 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:23:09,200 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:23:09,273 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:23:09,273 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:23:09,315 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:23:09,316 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:23:09,481 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-13 17:23:09,482 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-13 17:23:09,538 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-13 17:23:09,538 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-13 17:23:09,620 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:23:09,621 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:23:09,644 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-13 17:23:09,724 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:23:09,725 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:24:07,169 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:24:07,169 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:24:07,238 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:24:07,239 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:24:07,278 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:24:07,278 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-13 17:24:07,393 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-13 17:24:07,394 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-13 17:24:07,437 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-13 17:24:07,438 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-13 17:24:07,509 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:24:07,509 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-13 17:24:07,536 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-13 17:24:07,610 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:24:07,610 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:24:18,282 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-13 17:24:18,283 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 00:04:28,830 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:04:28,887 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:04:29,047 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:04:29,047 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:04:29,093 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:04:29,093 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:04:29,218 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 00:04:29,218 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 00:04:29,286 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 00:04:29,286 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-14 00:04:29,367 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:04:29,367 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:04:29,396 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 00:04:29,485 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 00:04:29,486 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 00:05:16,079 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:05:16,079 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:05:16,212 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:05:16,213 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:05:16,323 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:05:16,324 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 00:05:16,645 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 00:05:16,645 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 00:05:16,759 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 00:05:16,759 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-14 00:05:16,917 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:05:16,918 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 00:05:16,968 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 00:05:17,147 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 00:05:17,147 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 00:05:31,511 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 00:05:31,512 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:35:39,608 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:35:39,665 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:35:40,339 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:35:40,340 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:35:40,389 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:35:40,389 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:35:40,511 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:35:40,511 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:35:40,583 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 15:35:40,583 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-14 15:35:40,608 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:35:40,608 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:35:40,712 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 15:35:41,774 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:35:41,774 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:36:46,707 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:36:46,707 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:36:46,874 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:36:46,874 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:36:46,939 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:36:46,940 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:36:46,987 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:36:46,987 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:36:47,050 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 15:36:47,050 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-14 15:36:47,087 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:36:47,088 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:36:47,295 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 15:36:48,625 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:36:48,626 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:37:06,291 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:37:06,294 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:38:45,760 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:45,830 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:46,263 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:46,264 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:46,461 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:46,462 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:46,864 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:38:46,865 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:38:47,034 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 15:38:47,035 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-14 15:38:47,414 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:47,415 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:47,567 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:47,972 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:38:47,972 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:38:48,239 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:48,241 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:49,010 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:49,010 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:49,142 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:49,142 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:38:49,227 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:38:49,228 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:38:49,329 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 15:38:49,329 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-14 15:38:49,354 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:49,354 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:49,432 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 15:38:50,332 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:38:50,333 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:39:49,305 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:39:49,309 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:39:49,488 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:39:49,489 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:39:49,572 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:39:49,573 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:39:49,800 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:39:49,801 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:39:49,908 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 15:39:49,908 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-14 15:39:50,041 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:39:50,041 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:39:50,097 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 15:39:50,271 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:39:50,271 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:40:12,463 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:40:12,464 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:40:12,607 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:40:12,607 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:40:12,663 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:40:12,663 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 15:40:12,714 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:40:12,714 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 15:40:12,779 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 15:40:12,779 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-14 15:40:17,649 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:40:17,649 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 15:40:19,463 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 15:40:20,205 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:40:20,205 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:40:20,302 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:40:20,302 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:40:33,278 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 15:40:33,278 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:08:12,193 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:12,488 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:14,803 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:14,803 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:15,351 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:15,351 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:16,434 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:08:16,435 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:08:18,385 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:18,387 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:18,672 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:18,673 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:18,865 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:18,865 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:08:19,947 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:08:19,947 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:08:20,134 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 16:08:20,135 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-14 16:08:20,750 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 16:08:20,751 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-14 16:08:20,807 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:20,807 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:21,326 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:21,326 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:21,475 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:21,569 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 16:08:21,920 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:08:21,920 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:08:22,455 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:08:22,455 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:09:25,056 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:09:25,057 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:09:26,079 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:09:26,080 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:09:26,377 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:09:26,377 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:09:27,541 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:09:27,542 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:09:27,685 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 16:09:27,685 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-14 16:09:28,234 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:09:28,234 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:09:28,359 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 16:09:28,690 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:09:28,691 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:10:03,798 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:10:03,798 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:10:20,000 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:10:20,000 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:10:20,133 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:10:20,133 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:10:20,183 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:10:20,183 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 16:10:20,229 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:10:20,229 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 16:10:21,548 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 16:10:21,549 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-14 16:10:21,674 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:10:21,675 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 16:10:22,026 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 16:10:22,390 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 16:10:22,390 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 17:12:09,404 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:09,486 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:09,992 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:09,993 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:10,074 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:10,075 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:10,299 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 17:12:10,299 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 17:12:10,382 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 17:12:10,382 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-14 17:12:10,684 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:10,684 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:10,711 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:10,969 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 17:12:10,969 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 17:12:52,335 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:52,335 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:52,427 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:52,427 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:52,488 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:52,489 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-14 17:12:52,652 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 17:12:52,652 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-14 17:12:52,711 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-14 17:12:52,712 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-14 17:12:52,801 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:52,801 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:52,836 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-14 17:12:52,927 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 17:12:52,927 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 17:13:11,167 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-14 17:13:11,167 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 15:19:51,037 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:19:51,093 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:19:51,400 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:19:51,400 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:19:51,519 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:19:51,520 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:19:51,794 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 15:19:51,795 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 15:19:51,868 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 15:19:51,868 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-16 15:19:52,150 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:19:52,151 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:19:52,198 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 15:19:52,315 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 15:19:52,316 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 15:20:45,077 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:20:45,077 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:20:45,156 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:20:45,156 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:20:45,311 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:20:45,312 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 15:20:45,523 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 15:20:45,523 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 15:20:45,586 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 15:20:45,586 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-16 15:20:45,686 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:20:45,686 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 15:20:45,749 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 15:20:45,890 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 15:20:45,890 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 15:21:12,177 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 15:21:12,178 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 17:31:35,351 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:31:35,479 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:31:36,221 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:31:36,222 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:31:36,530 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:31:36,538 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:31:36,820 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 17:31:36,820 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 17:31:37,542 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 17:31:37,543 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-16 17:31:37,567 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:31:37,567 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:31:37,621 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 17:31:38,002 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 17:31:38,002 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 17:35:37,281 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:35:37,306 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:35:37,464 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:35:37,464 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:35:37,569 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:35:37,570 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 17:35:37,665 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 17:35:37,665 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 17:35:37,742 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 17:35:37,743 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-16 17:35:37,778 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:35:37,778 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 17:35:37,876 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 17:35:38,533 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 17:35:38,534 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:49:13,927 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:49:13,984 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:49:14,089 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:49:14,089 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:49:14,141 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:49:14,142 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:49:14,327 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 18:49:14,328 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 18:49:14,392 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 18:49:14,392 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-16 18:49:14,479 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:49:14,479 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:49:14,515 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 18:49:14,628 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:49:14,628 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:49:25,285 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:49:25,285 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:50:23,928 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:50:24,079 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:50:24,944 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:50:24,945 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:50:25,155 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:50:25,156 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:50:25,566 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 18:50:25,566 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 18:50:25,708 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 18:50:25,709 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-16 18:50:25,933 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:50:25,933 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:50:25,993 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 18:50:26,215 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:50:26,215 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:52:18,696 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:52:18,742 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:52:18,878 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:52:18,878 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:52:18,997 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:52:18,997 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 18:52:19,311 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 18:52:19,311 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 18:52:19,408 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 18:52:19,408 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-16 18:52:19,597 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:52:19,598 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 18:52:19,662 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 18:52:19,847 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 18:52:19,848 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 19:05:08,734 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:08,817 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:09,120 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:09,120 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:09,293 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:09,294 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:09,591 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 19:05:09,592 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 19:05:09,680 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 19:05:09,680 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-16 19:05:09,792 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:09,792 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:09,833 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:09,957 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 19:05:09,957 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 19:05:34,320 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:34,320 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:34,523 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:34,523 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:34,628 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:34,628 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-16 19:05:34,906 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 19:05:34,907 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-16 19:05:35,005 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-16 19:05:35,005 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-16 19:05:35,221 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:35,221 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:35,283 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-16 19:05:35,483 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-16 19:05:35,483 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-17 13:22:57,303 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:22:57,544 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:22:57,899 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:22:57,899 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:22:57,976 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:22:57,976 INFO gspann.core.ActionDriver - Typing 'ckzze30@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:22:58,557 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-17 13:22:58,557 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-17 13:22:58,751 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-17 13:22:58,752 INFO gspann.core.ActionDriver - Typing 'abcdefgh' into By.xpath: (//input[@id='password'])
+2018-03-17 13:22:59,231 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:22:59,231 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:22:59,337 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-17 13:22:59,717 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-17 13:22:59,717 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-17 13:24:06,591 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:24:06,591 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:24:06,696 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:24:06,696 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:24:06,776 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:24:06,776 INFO gspann.core.ActionDriver - Typing 'sunaina@test.com' into By.xpath: (//input[@id='userid'])[2]
+2018-03-17 13:24:06,944 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-17 13:24:06,944 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-17 13:24:07,010 INFO gspann.core.ActionDriver - element found: By.xpath: (//input[@id='password'])
+2018-03-17 13:24:07,010 INFO gspann.core.ActionDriver - Typing '12345678' into By.xpath: (//input[@id='password'])
+2018-03-17 13:24:07,114 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:24:07,114 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-17 13:24:07,151 INFO gspann.core.ActionDriver - clicking on element: By.xpath: //input[@name='Login']
+2018-03-17 13:24:07,264 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-17 13:24:07,264 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-17 13:24:35,522 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-17 13:24:35,522 INFO gspann.core.ActionDriver - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-21 12:48:42,636 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:48:42,691 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:48:42,885 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:48:42,885 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:48:42,945 INFO gspann.core.BasePage - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:48:42,946 INFO gspann.core.BasePage - Typing 'admin' into By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:48:43,122 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-21 12:48:43,122 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-21 12:48:44,291 INFO gspann.core.BasePage - element found: By.xpath: (//input[@id='password'])
+2018-03-21 12:48:44,291 INFO gspann.core.BasePage - Typing '123abc123' into By.xpath: (//input[@id='password'])
+2018-03-21 12:48:44,312 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:48:44,312 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:48:44,368 INFO gspann.core.BasePage - clicking on element: By.xpath: //input[@name='Login']
+2018-03-21 12:48:44,899 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-21 12:48:44,899 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-21 12:49:18,324 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:18,325 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:18,468 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:18,468 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:18,521 INFO gspann.core.BasePage - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:18,521 INFO gspann.core.BasePage - Typing 'Admin' into By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:18,556 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-21 12:49:18,556 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-21 12:49:18,606 INFO gspann.core.BasePage - element found: By.xpath: (//input[@id='password'])
+2018-03-21 12:49:18,606 INFO gspann.core.BasePage - Typing 'test' into By.xpath: (//input[@id='password'])
+2018-03-21 12:49:18,623 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:18,624 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:18,673 INFO gspann.core.BasePage - clicking on element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:19,651 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-21 12:49:19,651 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-21 12:49:51,377 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:51,378 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:51,485 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:51,485 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:51,527 INFO gspann.core.BasePage - element found: By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:51,527 INFO gspann.core.BasePage - Typing 'admin' into By.xpath: (//input[@id='userid'])[2]
+2018-03-21 12:49:51,550 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-21 12:49:51,550 INFO gspann.core.BasePage - Waiting for element: By.xpath: (//input[@id='password'])
+2018-03-21 12:49:51,588 INFO gspann.core.BasePage - element found: By.xpath: (//input[@id='password'])
+2018-03-21 12:49:51,589 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.xpath: (//input[@id='password'])
+2018-03-21 12:49:51,612 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:51,612 INFO gspann.core.BasePage - Waiting for element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:51,655 INFO gspann.core.BasePage - clicking on element: By.xpath: //input[@name='Login']
+2018-03-21 12:49:52,280 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-21 12:49:52,280 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='profile']/span
+2018-03-21 13:12:08,804 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:08,825 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:08,963 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:12:08,964 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:12:09,009 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:12:09,009 INFO gspann.core.BasePage - Typing 'null' into By.id: email
+2018-03-21 13:12:09,048 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:12:09,048 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:12:09,106 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:12:09,106 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 13:12:09,901 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:09,901 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:09,971 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:12:11,703 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:12:11,703 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:12:41,615 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:41,615 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:41,720 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:12:41,721 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:12:41,762 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:12:41,763 INFO gspann.core.BasePage - Typing 'null' into By.id: email
+2018-03-21 13:12:41,785 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:12:41,785 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:12:41,842 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:12:41,842 INFO gspann.core.BasePage - Typing 'test' into By.id: passwd
+2018-03-21 13:12:42,766 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:42,766 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:12:42,843 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:12:44,594 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:12:44,594 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:13:13,498 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:13:13,499 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:13:13,581 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:13:13,581 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:13:13,624 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:13:13,624 INFO gspann.core.BasePage - Typing 'null' into By.id: email
+2018-03-21 13:13:13,650 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:13:13,650 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:13:13,691 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:13:13,691 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 13:13:13,770 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:13:13,770 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:13:13,817 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:13:16,081 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:13:16,082 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:28:33,229 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:28:33,255 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:28:33,330 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:28:33,330 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:28:33,388 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:28:33,389 INFO gspann.core.BasePage - Typing 'admin' into By.id: email
+2018-03-21 13:28:33,526 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:28:33,526 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:28:33,605 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:28:33,605 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 13:28:33,786 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:28:33,787 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:28:33,820 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:28:35,741 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:28:35,741 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:29:04,024 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:04,024 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:04,089 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:29:04,089 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:29:04,125 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:29:04,125 INFO gspann.core.BasePage - Typing 'Admin' into By.id: email
+2018-03-21 13:29:04,203 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:29:04,203 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:29:04,262 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:29:04,262 INFO gspann.core.BasePage - Typing 'test' into By.id: passwd
+2018-03-21 13:29:04,335 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:04,335 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:04,384 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:29:06,189 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:29:06,189 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:29:27,274 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:27,275 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:27,344 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:29:27,344 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:29:27,382 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:29:27,382 INFO gspann.core.BasePage - Typing 'admin' into By.id: email
+2018-03-21 13:29:27,457 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:29:27,457 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:29:27,509 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:29:27,510 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 13:29:27,634 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:27,635 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:29:27,671 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:29:29,849 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:29:29,850 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:31:26,308 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:26,325 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:26,384 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:31:26,384 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:31:26,423 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:31:26,423 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 13:31:26,536 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:31:26,536 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:31:26,596 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:31:26,597 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 13:31:26,761 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:26,762 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:26,793 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:31:28,373 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:31:28,373 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:31:44,004 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:44,004 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:44,068 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:31:44,068 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:31:44,106 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:31:44,106 INFO gspann.core.BasePage - Typing 'Admin@tt.com' into By.id: email
+2018-03-21 13:31:44,220 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:31:44,220 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:31:44,273 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:31:44,273 INFO gspann.core.BasePage - Typing 'test' into By.id: passwd
+2018-03-21 13:31:44,375 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:44,375 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:31:44,413 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:31:46,210 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:31:46,211 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:32:00,867 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:32:00,868 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:32:00,933 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:32:00,933 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:32:00,979 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:32:00,979 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 13:32:01,118 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:32:01,118 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:32:01,179 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:32:01,180 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 13:32:01,353 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:32:01,353 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:32:01,390 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:32:03,258 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:32:03,258 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:36:23,872 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:36:23,893 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:36:24,038 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:36:24,038 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:36:24,086 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:36:24,087 INFO gspann.core.BasePage - Typing 'example@test.com' into By.id: email
+2018-03-21 13:36:24,157 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:36:24,158 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:36:24,239 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:36:24,240 INFO gspann.core.BasePage - Typing '12345678' into By.id: passwd
+2018-03-21 13:36:25,153 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:36:25,154 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:36:25,211 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:36:28,384 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:36:28,384 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:36:28,533 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:36:28,533 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:38:55,159 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:38:55,180 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:38:55,237 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:38:55,237 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:38:55,275 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:38:55,275 INFO gspann.core.BasePage - Typing 'admin2' into By.id: email
+2018-03-21 13:38:55,352 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:38:55,352 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:38:55,414 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:38:55,414 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 13:38:55,558 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:38:55,559 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:38:55,598 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:38:57,960 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:38:57,960 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:39:15,875 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:15,875 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:15,936 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:39:15,937 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:39:15,972 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:39:15,973 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 13:39:16,072 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:39:16,073 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:39:16,138 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:39:16,138 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 13:39:16,262 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:16,263 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:16,295 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:39:17,813 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:39:17,813 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:39:35,470 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:35,470 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:35,539 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:39:35,540 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:39:35,589 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:39:35,589 INFO gspann.core.BasePage - Typing 'Admin@tt.com' into By.id: email
+2018-03-21 13:39:35,693 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:39:35,693 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:39:35,760 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:39:35,760 INFO gspann.core.BasePage - Typing 'test' into By.id: passwd
+2018-03-21 13:39:35,855 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:35,855 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:35,894 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:39:37,593 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:39:37,593 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:39:52,922 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:52,923 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:53,022 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:39:53,022 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:39:53,068 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:39:53,068 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 13:39:53,199 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:39:53,200 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:39:53,261 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:39:53,261 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 13:39:53,423 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:53,423 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:39:53,453 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:39:55,034 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:39:55,034 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 13:40:11,816 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:40:11,816 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:40:11,891 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:40:11,891 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 13:40:11,938 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 13:40:11,939 INFO gspann.core.BasePage - Typing 'example@test.com' into By.id: email
+2018-03-21 13:40:12,150 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:40:12,150 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 13:40:12,224 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 13:40:12,224 INFO gspann.core.BasePage - Typing '12345678' into By.id: passwd
+2018-03-21 13:40:12,368 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:40:12,368 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 13:40:12,407 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 13:40:15,697 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:40:15,698 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:40:15,800 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 13:40:15,800 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 15:45:46,338 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:45:46,408 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:45:46,593 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:45:46,593 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:45:46,642 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:45:50,805 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:45:50,805 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:45:50,960 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 15:45:50,961 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 15:45:51,012 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 15:45:51,012 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 15:45:51,076 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 15:45:51,076 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 15:45:51,125 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 15:45:51,125 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 15:45:51,182 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:45:51,182 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:45:51,254 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 15:45:54,174 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 15:45:54,174 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 15:46:20,704 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:20,704 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:20,820 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:20,820 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:20,867 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:24,133 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:24,133 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:24,237 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 15:46:24,237 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 15:46:24,282 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 15:46:24,283 INFO gspann.core.BasePage - Typing 'Admin@tt.com' into By.id: email
+2018-03-21 15:46:24,372 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 15:46:24,372 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 15:46:24,419 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 15:46:24,420 INFO gspann.core.BasePage - Typing 'test234' into By.id: passwd
+2018-03-21 15:46:25,041 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:25,041 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:25,126 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 15:46:27,237 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 15:46:27,237 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 15:46:48,515 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:48,515 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:48,600 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:48,600 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:48,639 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 15:46:51,377 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:51,378 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:51,476 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 15:46:51,477 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 15:46:51,521 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 15:46:51,521 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 15:46:51,567 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 15:46:51,567 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 15:46:51,611 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 15:46:51,611 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 15:46:52,142 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:52,142 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 15:46:52,202 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 15:46:54,157 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 15:46:54,157 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:23:32,967 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:32,991 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:33,072 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:33,072 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:33,093 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:35,444 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:35,445 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:35,525 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:23:35,525 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:23:35,572 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:23:35,573 INFO gspann.core.BasePage - Typing 'admin2' into By.id: email
+2018-03-21 16:23:35,655 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:23:35,656 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:23:35,716 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:23:35,716 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 16:23:35,878 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:35,878 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:35,914 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:23:37,670 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:23:37,670 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:23:53,400 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:53,400 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:53,464 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:53,464 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:53,486 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:23:55,865 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:55,865 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:55,944 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:23:55,944 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:23:55,991 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:23:55,991 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 16:23:56,102 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:23:56,103 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:23:56,171 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:23:56,171 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 16:23:56,344 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:56,344 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:23:56,385 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:23:57,906 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:23:57,906 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:24:13,815 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:13,815 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:13,881 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:13,882 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:13,900 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:16,475 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:16,475 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:16,556 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:24:16,556 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:24:16,607 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:24:16,607 INFO gspann.core.BasePage - Typing 'Admin@tt.com' into By.id: email
+2018-03-21 16:24:16,723 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:24:16,723 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:24:16,777 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:24:16,777 INFO gspann.core.BasePage - Typing 'test234' into By.id: passwd
+2018-03-21 16:24:16,889 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:16,889 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:16,928 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:24:18,362 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:24:18,362 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:24:31,751 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:31,751 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:31,820 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:31,820 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:31,839 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:34,103 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:34,103 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:34,177 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:24:34,177 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:24:35,201 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:24:35,201 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 16:24:35,305 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:24:35,306 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:24:35,360 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:24:35,360 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 16:24:35,489 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:35,489 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:35,520 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:24:36,889 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:24:36,890 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:24:37,785 DEBUG gspann.core.AppTestBase - Test data is loaded from file src/main/resources/com/gspann/test/LoginPageTest.xlsx and the sheet is verifyLoginWithValidCredentials
+2018-03-21 16:24:51,355 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:51,355 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:51,435 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:51,435 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:51,455 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:24:53,838 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:53,839 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:53,907 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:24:53,908 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:24:53,955 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:24:53,956 INFO gspann.core.BasePage - Typing 'example@test.com' into By.id: email
+2018-03-21 16:24:54,078 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:24:54,078 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:24:54,131 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:24:54,131 INFO gspann.core.BasePage - Typing '12345678' into By.id: passwd
+2018-03-21 16:24:54,255 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:54,255 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:24:54,288 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:24:57,334 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:24:57,334 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:24:57,423 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:24:57,424 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:25:56,688 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:25:56,727 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:25:56,804 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:25:56,805 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:25:56,831 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:00,521 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:00,521 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:00,685 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:26:00,686 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:26:00,858 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:26:00,858 INFO gspann.core.BasePage - Typing 'admin2' into By.id: email
+2018-03-21 16:26:01,057 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:26:01,057 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:26:01,190 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:26:01,191 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 16:26:01,558 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:01,558 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:01,621 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:26:03,238 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:26:03,238 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:26:26,121 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:26,121 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:28,072 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:28,072 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:28,148 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:28,148 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:28,174 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:31,244 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:31,245 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:31,382 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:26:31,383 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:26:31,459 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:26:31,460 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 16:26:31,633 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:26:31,633 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:26:31,793 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:26:31,793 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 16:26:31,925 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:31,925 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:26:31,961 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:26:33,787 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:26:33,787 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:26:59,086 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:59,086 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:59,176 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:59,176 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:26:59,204 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:02,720 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:02,720 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:02,891 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:02,891 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:02,973 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:27:02,973 INFO gspann.core.BasePage - Typing 'Admin@tt.com' into By.id: email
+2018-03-21 16:27:03,280 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:03,280 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:03,437 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:27:03,437 INFO gspann.core.BasePage - Typing 'test234' into By.id: passwd
+2018-03-21 16:27:03,683 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:03,684 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:03,763 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:27:05,392 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:27:05,392 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:27:05,437 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:05,438 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:05,583 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:05,584 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:05,648 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:08,978 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:08,978 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:09,073 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:09,073 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:09,119 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:27:09,119 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 16:27:09,170 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:09,170 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:09,220 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:27:09,220 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 16:27:09,309 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:09,309 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:09,419 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:27:14,685 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:27:14,685 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:27:30,600 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:30,601 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:30,707 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:30,707 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:30,730 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:33,915 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:33,915 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:34,013 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:34,013 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:34,123 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:27:34,123 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 16:27:34,447 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:34,447 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:34,523 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:27:34,523 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 16:27:34,713 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:34,713 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:34,750 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:27:37,273 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:27:37,273 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:27:38,520 DEBUG gspann.core.AppTestBase - Test data is loaded from file src/main/resources/com/gspann/test/LoginPageTest.xlsx and the sheet is verifyLoginWithValidCredentials
+2018-03-21 16:27:42,773 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:42,773 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:42,864 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:42,864 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:42,903 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:27:48,471 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:48,472 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:48,567 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:48,568 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:27:48,620 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:27:48,621 INFO gspann.core.BasePage - Typing 'Admin@tt.com' into By.id: email
+2018-03-21 16:27:48,670 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:48,670 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:27:48,721 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:27:48,722 INFO gspann.core.BasePage - Typing 'test234' into By.id: passwd
+2018-03-21 16:27:48,749 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:48,749 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:27:48,797 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:27:52,681 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:27:52,681 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:28:10,429 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:10,429 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:10,716 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:10,716 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:10,762 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:14,181 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:14,181 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:14,280 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:28:14,281 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:28:14,341 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:28:14,342 INFO gspann.core.BasePage - Typing 'example@test.com' into By.id: email
+2018-03-21 16:28:14,560 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:28:14,560 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:28:14,743 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:28:14,743 INFO gspann.core.BasePage - Typing '12345678' into By.id: passwd
+2018-03-21 16:28:14,910 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:14,910 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:15,055 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:28:18,464 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:28:18,464 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:28:18,719 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:28:18,720 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:28:19,939 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:19,939 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:20,021 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:20,022 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:20,056 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:23,412 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:23,413 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:23,505 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:28:23,505 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:28:23,550 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:28:23,551 INFO gspann.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2018-03-21 16:28:23,586 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:28:23,587 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:28:23,640 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:28:23,640 INFO gspann.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2018-03-21 16:28:23,676 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:23,677 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:23,720 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:28:26,225 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:28:26,226 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 16:28:26,995 DEBUG gspann.core.AppTestBase - Test data is loaded from file src/main/resources/com/gspann/test/LoginPageTest.xlsx and the sheet is verifyLoginWithValidCredentials
+2018-03-21 16:28:53,357 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:53,358 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:53,442 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:53,442 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:53,490 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 16:28:56,696 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:56,696 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:56,784 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:28:56,784 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 16:28:56,829 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 16:28:56,830 INFO gspann.core.BasePage - Typing 'example@test.com' into By.id: email
+2018-03-21 16:28:56,884 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:28:56,885 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 16:28:56,932 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 16:28:56,932 INFO gspann.core.BasePage - Typing '12345678' into By.id: passwd
+2018-03-21 16:28:57,677 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:57,677 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 16:28:57,748 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 16:29:00,627 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:29:00,627 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:29:00,736 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 16:29:00,736 INFO gspann.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2018-03-21 23:13:20,220 DEBUG gspann.core.AppTestBase - Test data is loaded from file src/main/resources/com/gspann/test/LoginPageTest.json and the key value is failLoginForcefullyForReport
+2018-03-21 23:14:30,928 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 23:14:30,929 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 23:14:31,340 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 23:14:31,340 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 23:14:31,446 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-21 23:14:39,539 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 23:14:39,540 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 23:14:39,697 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 23:14:39,698 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-21 23:14:39,782 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-21 23:14:39,782 INFO gspann.core.BasePage - Typing 'admin2' into By.id: email
+2018-03-21 23:14:40,443 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 23:14:40,443 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-21 23:14:41,721 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-21 23:14:41,721 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-21 23:14:41,978 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 23:14:41,979 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-21 23:14:43,560 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-21 23:14:45,871 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 23:14:45,871 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-21 23:14:48,512 INFO gspann.core.AppTestBase - Cleaning up WebDriver...
+2018-03-23 14:33:04,257 DEBUG gspann.utility.ReadJsonData - Test data is loaded from file src/main/resources/com/gspann/test/LoginPageTest.json and the key value is failLoginForcefullyForReport
+2018-03-23 14:33:58,595 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-23 14:33:58,596 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-23 14:33:59,274 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-23 14:33:59,274 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2018-03-23 14:33:59,323 INFO gspann.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2018-03-23 14:34:04,195 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-23 14:34:04,196 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-23 14:34:04,317 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-23 14:34:04,317 INFO gspann.core.BasePage - Waiting for element: By.id: email
+2018-03-23 14:34:04,369 INFO gspann.core.BasePage - element found: By.id: email
+2018-03-23 14:34:04,370 INFO gspann.core.BasePage - Typing 'admin2' into By.id: email
+2018-03-23 14:34:04,452 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-23 14:34:04,452 INFO gspann.core.BasePage - Waiting for element: By.id: passwd
+2018-03-23 14:34:04,513 INFO gspann.core.BasePage - element found: By.id: passwd
+2018-03-23 14:34:04,513 INFO gspann.core.BasePage - Typing '123abc123' into By.id: passwd
+2018-03-23 14:34:05,391 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-23 14:34:05,391 INFO gspann.core.BasePage - Waiting for element: By.id: SubmitLogin
+2018-03-23 14:34:05,466 INFO gspann.core.BasePage - clicking on element: By.id: SubmitLogin
+2018-03-23 14:34:07,726 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-23 14:34:07,727 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2018-03-23 14:34:09,216 INFO gspann.core.AppTestBase - Cleaning up WebDriver...

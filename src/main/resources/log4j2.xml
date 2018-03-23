@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT" level="debug">
+			<PatternLayout pattern="%d [%-5level] %c - %msg%n" />
+		</Console>
+
+		<Routing name="Routing">
+			<Routes pattern="$${ctx:FISHTAG}">
+
+				<!-- This route is chosen if ThreadContext has no value for key ROUTINGKEY. -->
+				<Route key="$${ctx:FISHTAG}">
+					<RollingFile name="Rolling-default" fileName="test-output/logs/default.log"
+						filePattern="test-output/logs/default.%i.log">
+						<PatternLayout>
+							<pattern>%d %p %c{3} - %m%n</pattern>
+						</PatternLayout>
+						<Policies>
+							<SizeBasedTriggeringPolicy size="100 MB" />
+						</Policies>
+					</RollingFile>
+				</Route>
+
+				<!-- This route is chosen if ThreadContext has a value for FISHTAG (other 
+					than the value 'special' which had its own route above). The value dynamically 
+					determines the name of the log file. -->
+				<Route>
+					<RollingFile name="Rolling-${ctx:FISHTAG}"
+						fileName="test-output/logs/test-${ctx:FISHTAG}.log" filePattern="test-output/logs/test-${ctx:FISHTAG}.%i.log">
+						<PatternLayout>
+							<pattern>%d %p %c{3} - %m%n</pattern>
+						</PatternLayout>
+						<Policies>
+							<SizeBasedTriggeringPolicy size="100 MB" />
+						</Policies>
+					</RollingFile>
+				</Route>
+			</Routes>
+		</Routing>
+
+	</Appenders>
+	<Loggers>
+		<Root level="debug">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="Routing" />
+		</Root>
+	</Loggers>
+
+</Configuration>

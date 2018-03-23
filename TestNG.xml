@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="tests" thread-count="4" verbose="2">
+	<!--<listeners> <listener class-name="com.gspann.listeners.ReportListener"/> 
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/> <listener class-name="com.gspann.utility.AnnotationTransformer"/> 
+		</listeners> -->
+	<parameter name="ConfigFile" value="config.properties"></parameter>
+
+	<test name="Meritnation Test run on Chrome">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.gspann.test.LoginPageTest" />
+		</classes>
+	</test>
+     <test name="Google Test run on firefox"> 
+         <parameter name="browser" value="firefox"></parameter> 
+		<classes> 
+		    <class name="com.gspann.test.LoginPageTest"/> 
+		</classes> 
+		</test> 
+			<!--
+		<test name="Google Test run on IE"> <parameter name="browser" 
+		value="ie"></parameter> <classes> <class name="test.LoginPageTest"/> </classes> 
+		</test> -->
+</suite> <!-- Suite -->
