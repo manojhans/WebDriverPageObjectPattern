@@ -19,6 +19,7 @@ import com.google.gson.JsonParser;
 import com.gspann.listeners.Retry;
 import com.gspann.pages.HomePage;
 
+import org.apache.commons.exec.OS;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
@@ -50,18 +51,22 @@ public class BrowserInstance {
 	private DesiredCapabilities caps;
 	private String grid;
 	
-	public void initiateDriver(String browser) throws MalformedURLException{
+	protected void initiateDriver(String browser) throws MalformedURLException{
 		grid=PropertyReader.getProperty("Grid");
 		LOGGER.info("Initializing "+browser);
 		if(browser.equalsIgnoreCase("firefox")){
-			System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/drivers/geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", OS.isFamilyWindows()?
+					System.getProperty("user.dir")+"/drivers/geckodriver.exe":
+					System.getProperty("user.dir")+"/drivers/geckodriver");
 			caps=DesiredCapabilities.firefox();
 			driver.set(grid.equalsIgnoreCase("yes") ?
 	             new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), caps):
                  new FirefoxDriver());
 		}
 		else if(browser.equalsIgnoreCase("chrome")){
-			System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/drivers/chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", OS.isFamilyWindows()?
+					System.getProperty("user.dir")+"/drivers/chromedriver.exe":
+					System.getProperty("user.dir")+"/drivers/chromedriver");
 			caps=DesiredCapabilities.chrome();
 			driver.set(grid.equalsIgnoreCase("yes") ?
 		             new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), caps):
