@@ -5,13 +5,13 @@
 	<test name="Test run on Chrome" parallel="methods">
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-			<class name="com.gspann.test.LoginPageTest" />
+			<class name="com.claritybot.test.LoginPageTest" />
 		</classes>
 	</test>
      <test name="Test run on firefox" parallel="methods">
          <parameter name="browser" value="firefox"></parameter> 
 		<classes> 
-		    <class name="com.gspann.test.LoginPageTest"/> 
+		    <class name="com.claritybot.test.LoginPageTest"/>
 		</classes> 
 		</test>
 			<!--
