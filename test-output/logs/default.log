@@ -1398,3 +1398,99 @@
 2018-03-23 14:34:07,726 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
 2018-03-23 14:34:07,727 INFO gspann.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
 2018-03-23 14:34:09,216 INFO gspann.core.AppTestBase - Cleaning up WebDriver...
+2021-02-19 13:50:16,604 DEBUG claritybot.utility.ReadJsonData - Test data is loaded from file src/main/resources/com/claritybot/test/LoginPageTest.json and the key value is verifyLoginWithInvalidCredentials
+2021-02-19 13:50:16,664 INFO claritybot.core.BrowserInstance - Initializing firefox
+2021-02-19 13:55:36,910 DEBUG claritybot.utility.ReadJsonData - Test data is loaded from file src/main/resources/com/claritybot/test/LoginPageTest.json and the key value is verifyLoginWithInvalidCredentials
+2021-02-19 13:55:36,996 INFO claritybot.core.BrowserInstance - Initializing firefox
+2021-02-19 13:56:26,913 DEBUG claritybot.utility.ReadJsonData - Test data is loaded from file src/main/resources/com/claritybot/test/LoginPageTest.json and the key value is verifyLoginWithInvalidCredentials
+2021-02-19 13:56:26,984 INFO claritybot.core.BrowserInstance - Initializing firefox
+2021-02-19 13:56:35,413 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:35,413 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:35,505 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:35,505 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:35,533 INFO claritybot.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:37,375 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:37,375 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:37,433 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:56:37,433 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:56:37,459 INFO claritybot.core.BasePage - element found: By.id: email
+2021-02-19 13:56:37,460 INFO claritybot.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2021-02-19 13:56:37,506 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:56:37,506 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:56:37,533 INFO claritybot.core.BasePage - element found: By.id: passwd
+2021-02-19 13:56:37,533 INFO claritybot.core.BasePage - Typing '123abc123' into By.id: passwd
+2021-02-19 13:56:37,577 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:37,578 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:37,611 INFO claritybot.core.BasePage - clicking on element: By.id: SubmitLogin
+2021-02-19 13:56:39,091 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2021-02-19 13:56:39,092 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2021-02-19 13:56:39,395 INFO claritybot.core.AppTestBase - Cleaning up WebDriver...
+2021-02-19 13:56:39,993 INFO claritybot.core.BrowserInstance - Initializing firefox
+2021-02-19 13:56:47,392 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:47,392 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:47,468 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:47,468 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:47,491 INFO claritybot.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:49,298 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:49,298 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:49,354 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:56:49,354 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:56:49,386 INFO claritybot.core.BasePage - element found: By.id: email
+2021-02-19 13:56:49,386 INFO claritybot.core.BasePage - Typing 'Admin@tt.com' into By.id: email
+2021-02-19 13:56:49,421 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:56:49,421 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:56:49,464 INFO claritybot.core.BasePage - element found: By.id: passwd
+2021-02-19 13:56:49,464 INFO claritybot.core.BasePage - Typing 'test234' into By.id: passwd
+2021-02-19 13:56:49,490 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:49,491 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:56:49,527 INFO claritybot.core.BasePage - clicking on element: By.id: SubmitLogin
+2021-02-19 13:56:50,324 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2021-02-19 13:56:50,325 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2021-02-19 13:56:50,443 INFO claritybot.core.AppTestBase - Cleaning up WebDriver...
+2021-02-19 13:56:51,134 INFO claritybot.core.BrowserInstance - Initializing firefox
+2021-02-19 13:56:58,197 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:58,198 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:58,275 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:58,275 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:56:58,299 INFO claritybot.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:57:01,462 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:01,462 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:01,511 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:57:01,511 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:57:01,535 INFO claritybot.core.BasePage - element found: By.id: email
+2021-02-19 13:57:01,535 INFO claritybot.core.BasePage - Typing 'admin@tt.com' into By.id: email
+2021-02-19 13:57:01,563 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:57:01,563 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:57:01,588 INFO claritybot.core.BasePage - element found: By.id: passwd
+2021-02-19 13:57:01,588 INFO claritybot.core.BasePage - Typing 'Chirag2193' into By.id: passwd
+2021-02-19 13:57:01,610 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:01,610 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:01,632 INFO claritybot.core.BasePage - clicking on element: By.id: SubmitLogin
+2021-02-19 13:57:03,350 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2021-02-19 13:57:03,350 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='alert alert-danger']//li
+2021-02-19 13:57:03,420 INFO claritybot.core.AppTestBase - Cleaning up WebDriver...
+2021-02-19 13:57:14,644 DEBUG claritybot.core.AppTestBase - Test data is loaded from file /Users/mhans/WebDriverPageObjectPattern-master/src/main/resources/com/claritybot/test/LoginPageTest.xlsx and the sheet is verifyLoginWithValidCredentials
+2021-02-19 13:57:15,206 INFO claritybot.core.BrowserInstance - Initializing firefox
+2021-02-19 13:57:23,018 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:57:23,019 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:57:23,107 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:57:23,107 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:57:23,135 INFO claritybot.core.BasePage - clicking on element: By.xpath: //div[@class='header_user_info']/a
+2021-02-19 13:57:24,780 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:24,781 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:24,836 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:57:24,837 INFO claritybot.core.BasePage - Waiting for element: By.id: email
+2021-02-19 13:57:24,868 INFO claritybot.core.BasePage - element found: By.id: email
+2021-02-19 13:57:24,868 INFO claritybot.core.BasePage - Typing 'example@test.com' into By.id: email
+2021-02-19 13:57:24,913 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:57:24,914 INFO claritybot.core.BasePage - Waiting for element: By.id: passwd
+2021-02-19 13:57:24,943 INFO claritybot.core.BasePage - element found: By.id: passwd
+2021-02-19 13:57:24,943 INFO claritybot.core.BasePage - Typing '12345678' into By.id: passwd
+2021-02-19 13:57:24,982 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:24,982 INFO claritybot.core.BasePage - Waiting for element: By.id: SubmitLogin
+2021-02-19 13:57:25,018 INFO claritybot.core.BasePage - clicking on element: By.id: SubmitLogin
+2021-02-19 13:57:26,516 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2021-02-19 13:57:26,517 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2021-02-19 13:57:26,567 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2021-02-19 13:57:26,568 INFO claritybot.core.BasePage - Waiting for element: By.xpath: //a[@title='View my customer account']/span
+2021-02-19 13:57:26,877 INFO claritybot.core.AppTestBase - Cleaning up WebDriver...

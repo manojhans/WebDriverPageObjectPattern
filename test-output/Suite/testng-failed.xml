@@ -5,7 +5,7 @@
   <test thread-count="4" verbose="2" name="Meritnation Test run on Chrome(failed)" parallel="tests">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.gspann.test.LoginPageTest">
+      <class name="com.claritybot.test.LoginPageTest">
         <methods>
           <include name="tearDown"/>
           <include name="retryFailedCases"/>
@@ -13,13 +13,13 @@
           <include name="init"/>
           <include name="openBrowser"/>
         </methods>
-      </class> <!-- com.gspann.test.LoginPageTest -->
+      </class> <!-- com.claritybot.test.LoginPageTest -->
     </classes>
   </test> <!-- Meritnation Test run on Chrome(failed) -->
   <test thread-count="4" verbose="2" name="Google Test run on firefox(failed)" parallel="tests">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.gspann.test.LoginPageTest">
+      <class name="com.claritybot.test.LoginPageTest">
         <methods>
           <include name="tearDown"/>
           <include name="retryFailedCases"/>
@@ -27,7 +27,7 @@
           <include name="init"/>
           <include name="openBrowser"/>
         </methods>
-      </class> <!-- com.gspann.test.LoginPageTest -->
+      </class> <!-- com.claritybot.test.LoginPageTest -->
     </classes>
   </test> <!-- Google Test run on firefox(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extentreports>
-	<configuration>
-		<!-- document encoding -->
-		<encoding>UTF-8</encoding>
+    <configuration>
+        <!-- document encoding -->
+        <encoding>UTF-8</encoding>
 
-		<!-- title of the document -->
-		<documentTitle>Execution Report</documentTitle>
+        <!-- title of the document -->
+        <documentTitle>Execution Report</documentTitle>
 
-		<!-- report name - displayed at top-nav -->
-		<reportName>
+        <!-- report name - displayed at top-nav -->
+        <reportName>
             <![CDATA[
-            <a href="http://www.gspann.com/" target="_blank"><img src='../src/main/resources/logo/GSPANN_Logo.png'/></a>
+		<!-- <a href="http://www.gspann.com/" target="_blank"><img src='../src/main/resources/logo/abc.png'/></a> -->
                 
             ]]>
-		</reportName>
+        </reportName>
 
-		<!-- report headline - displayed at top-nav, after reportHeadline -->
-		<reportHeadline></reportHeadline>
+        <!-- report headline - displayed at top-nav, after reportHeadline -->
+        <reportHeadline></reportHeadline>
 
-		<!-- custom javascript -->
-		<scripts>
+        <!-- custom javascript -->
+        <scripts>
             <![CDATA[
                 $(document).ready(function() {
 
                 });
             ]]>
-		</scripts>
+        </scripts>
 
-		<!-- custom styles -->
-		<styles>
+        <!-- custom styles -->
+        <styles>
             <![CDATA[
                 .report-name { padding-left: 50px;margin-top: -17px; } .report-name > img { float: left;height: 90%;margin-left: 41px;margin-top: -2px;width: auto; }
             ]]>
-		</styles>
-	</configuration>
+        </styles>
+    </configuration>
 </extentreports>

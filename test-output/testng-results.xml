@@ -12,8 +12,8 @@
     <groups>
     </groups>
     <test name="Default test" duration-ms="65433" started-at="2018-03-23T09:03:04Z" finished-at="2018-03-23T09:04:09Z">
-      <class name="com.gspann.test.LoginPageTest">
-        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.gspann.test.LoginPageTest@34c01041]" name="init" is-config="true" duration-ms="23" started-at="2018-03-23T09:03:04Z" finished-at="2018-03-23T09:03:04Z">
+      <class name="com.claritybot.test.LoginPageTest">
+        <test-method status="PASS" signature="init(java.lang.String)[pri:0, instance:com.claritybot.test.LoginPageTest@34c01041]" name="init" is-config="true" duration-ms="23" started-at="2018-03-23T09:03:04Z" finished-at="2018-03-23T09:03:04Z">
           <params>
             <param index="0">
               <value>
@@ -24,7 +24,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="retryFailedCases(org.testng.ITestContext)[pri:0, instance:com.gspann.test.LoginPageTest@34c01041]" name="retryFailedCases" is-config="true" duration-ms="2" started-at="2018-03-23T09:03:04Z" finished-at="2018-03-23T09:03:04Z">
+        <test-method status="PASS" signature="retryFailedCases(org.testng.ITestContext)[pri:0, instance:com.claritybot.test.LoginPageTest@34c01041]" name="retryFailedCases" is-config="true" duration-ms="2" started-at="2018-03-23T09:03:04Z" finished-at="2018-03-23T09:03:04Z">
           <params>
             <param index="0">
               <value>
@@ -35,7 +35,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- retryFailedCases -->
-        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:com.gspann.test.LoginPageTest@34c01041]" name="openBrowser" is-config="true" duration-ms="25566" started-at="2018-03-23T09:03:04Z" finished-at="2018-03-23T09:03:29Z">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:com.claritybot.test.LoginPageTest@34c01041]" name="openBrowser" is-config="true" duration-ms="25566" started-at="2018-03-23T09:03:04Z" finished-at="2018-03-23T09:03:29Z">
           <params>
             <param index="0">
               <value>
@@ -46,7 +46,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="FAIL" signature="failLoginForcefullyForReport(java.util.Map)[pri:0, instance:com.gspann.test.LoginPageTest@34c01041]" name="failLoginForcefullyForReport" duration-ms="37924" started-at="2018-03-23T09:03:29Z" data-provider="testDataJSON" finished-at="2018-03-23T09:04:07Z">
+        <test-method status="FAIL" signature="failLoginForcefullyForReport(java.util.Map)[pri:0, instance:com.claritybot.test.LoginPageTest@34c01041]" name="failLoginForcefullyForReport" duration-ms="37924" started-at="2018-03-23T09:03:29Z" data-provider="testDataJSON" finished-at="2018-03-23T09:04:07Z">
           <params>
             <param index="0">
               <value>
@@ -59,8 +59,8 @@
               <![CDATA[Expected Results: Login error should be visible]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Expected Results: Login error should be visible
-at com.gspann.test.LoginPageTest.failLoginForcefullyForReport(LoginPageTest.java:35)
+                <![CDATA[java.lang.AssertionError: Expected Results: Login error should be visible
+at com.claritybot.test.LoginPageTest.failLoginForcefullyForReport(LoginPageTest.java:35)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -98,18 +98,18 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- failLoginForcefullyForReport -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.gspann.test.LoginPageTest@34c01041]" name="tearDown" is-config="true" duration-ms="1586" started-at="2018-03-23T09:04:08Z" finished-at="2018-03-23T09:04:09Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.claritybot.test.LoginPageTest@34c01041]" name="tearDown" is-config="true" duration-ms="1586" started-at="2018-03-23T09:04:08Z" finished-at="2018-03-23T09:04:09Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=failLoginForcefullyForReport status=FAILURE method=LoginPageTest.failLoginForcefullyForReport(java.util.Map)[pri:0, instance:com.gspann.test.LoginPageTest@34c01041] output=<h4>Repro Steps</h4><br>1. Enter invalid credentials<br>2. Click login button<br>3. Check for error message<br>]]]>
+                  <![CDATA[[TestResult name=failLoginForcefullyForReport status=FAILURE method=LoginPageTest.failLoginForcefullyForReport(java.util.Map)[pri:0, instance:com.claritybot.test.LoginPageTest@34c01041] output=<h4>Repro Steps</h4><br>1. Enter invalid credentials<br>2. Click login button<br>3. Check for error message<br>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.gspann.test.LoginPageTest -->
+      </class> <!-- com.claritybot.test.LoginPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
