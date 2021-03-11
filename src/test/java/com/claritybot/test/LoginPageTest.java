@@ -7,6 +7,8 @@ import org.testng.annotations.Test;
 
 import java.util.Map;
 
+import static org.assertj.core.api.Assertions.assertThat;
+
 /**
  * @author Manoj Hans
  */
@@ -20,7 +22,9 @@ public class LoginPageTest extends AppTestBase {
             .typeUsername(data.get("username"))
             .typePassword(data.get("password"))
             .clickLoginBtn();
-        assert loginPage.verifyLoginError("Authentication failed.") : "Expected Results: Login error should be visible";
+        assertThat(loginPage.verifyLoginError("Authentication failed."))
+            .withFailMessage("Expected Results: Login error should be visible")
+            .isTrue();
     }
 
     @Steps(LoginPageScenarios.verifyLoginWithInvalidCredentials)
@@ -31,7 +35,9 @@ public class LoginPageTest extends AppTestBase {
             .typeUsername(data.get("username"))
             .typePassword(data.get("password"))
             .clickLoginBtn();
-        assert loginPage.verifyLoginError("Authentication failed.") : "Expected Results: Login error should be visible";
+        assertThat(loginPage.verifyLoginError("Authentication failed."))
+            .withFailMessage("Expected Results: Login error should be visible")
+            .isTrue();
     }
 
     @Steps(LoginPageScenarios.verifyLoginWithValidCredentials)
@@ -40,6 +46,8 @@ public class LoginPageTest extends AppTestBase {
         var userPage = appStart()
             .clickSignInLink()
             .signIn(username, password);
-        assert userPage.verifyLoginUser("Example test") : "Expected Results: Login should be successful";
+        assertThat(userPage.verifyLoginUser("Example test"))
+            .withFailMessage("Expected Results: Login should be successful")
+            .isTrue();
     }
 }
