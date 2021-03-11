@@ -1,9 +1,22 @@
-{"verifyLoginWithInvalidCredentials":[
-    { "username" : "admin@tt.com" , "password":"123abc123"},
-    { "username" : "Admin@tt.com" , "password":"test234"},
-    { "username" : "admin@tt.com" , "password":"Chirag2193"}
-],
-"failLoginForcefullyForReport":[
-    { "username" : "admin2" , "password":"123abc123" }
-]
+{
+  "verifyLoginWithInvalidCredentials": [
+    {
+      "username": "admin@tt.com",
+      "password": "123abc123"
+    },
+    {
+      "username": "Admin@tt.com",
+      "password": "test234"
+    },
+    {
+      "username": "admin@tt.com",
+      "password": "Chirag2193"
+    }
+  ],
+  "failLoginForcefullyForReport": [
+    {
+      "username": "admin2",
+      "password": "123abc123"
+    }
+  ]
 }

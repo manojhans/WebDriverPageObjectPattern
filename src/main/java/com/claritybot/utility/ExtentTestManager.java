@@ -12,8 +12,8 @@ import java.util.Map;
  **/
 public class ExtentTestManager {
 
-    private static Map<Integer, ExtentTest> extentTestMap = new HashMap<Integer, ExtentTest>();
-    private static ExtentReports extent = ExtentManager.getInstance();
+    private static final Map<Integer, ExtentTest> extentTestMap = new HashMap<>();
+    private static final ExtentReports extent = ExtentManager.getInstance();
 
     public synchronized static ExtentTest getTest() {
         return extentTestMap.get((int) Thread.currentThread().getId());
@@ -30,7 +30,7 @@ public class ExtentTestManager {
     public synchronized static ExtentTest startTest(String testName, String desc, String deviceId) {
         var test = extent.startTest(testName, desc).assignCategory(deviceId);
         extentTestMap.put((int) Thread.currentThread().getId(), test);
-        Map<String, String> sysInfo = new HashMap<String, String>();
+        var sysInfo = new HashMap<String, String>();
         var info = new BuildInfo();
         sysInfo.put("Selenium Java Version", info.getReleaseLabel());
         sysInfo.put("Environment", "Prod");

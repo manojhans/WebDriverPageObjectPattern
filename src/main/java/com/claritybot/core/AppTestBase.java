@@ -35,8 +35,8 @@ import java.util.Objects;
 public class AppTestBase extends BrowserInstance {
 
     private final static Logger logger = LogManager.getLogger(AppTestBase.class);
-    private ReadJsonData readJsonData = new ReadJsonData();
-    private ReadExcelData readExcelData = new ReadExcelData();
+    private final ReadJsonData readJsonData = new ReadJsonData();
+    private final ReadExcelData readExcelData = new ReadExcelData();
     protected static final String DEFAULT_JSONPROVIDER = "testDataJSON";
     protected static final String DEFAULT_EXCELPROVIDER = "testDataExcel";
 
@@ -46,7 +46,6 @@ public class AppTestBase extends BrowserInstance {
         try {
             new PropertyReader(configFile);
         } catch (Exception e) {
-            e.printStackTrace();
             throw new RuntimeException("Problem with config file");
         }
     }
@@ -75,41 +74,35 @@ public class AppTestBase extends BrowserInstance {
     }
 
     @DataProvider(name = "testDataExcel")
-    public Object[][] testDataProviderFromExcel(Method testMethod) throws Exception {
+    public Object[][] testDataProviderFromExcel(Method testMethod) {
         var sheetName = testMethod.getName();
-        var filePath = String.format("%s/src/main/resources/", System.getProperty("user.dir"))
-            + testMethod
-            .getDeclaringClass()
-            .getName()
-            .replace(ConstantVariable.DOT, ConstantVariable.FORWARD_SLASH)
-            + ".xlsx";
-        logger.debug("Test data is loaded from file " + filePath
-            + " and the sheet is " + sheetName);
-        Object[][] testObjArray;
-        if (testMethod.getName().length() > 31) {
-            testObjArray = readExcelData.getTableArray(
-                filePath,
-                testMethod.getName().substring(0, 31)
-            );
-        } else {
-            testObjArray = readExcelData.getTableArray(
-                filePath,
-                testMethod.getName()
-            );
-        }
-        return testObjArray;
+        var filePath = getClass()
+            .getClassLoader()
+            .getResource(testMethod
+                .getDeclaringClass()
+                .getName()
+                .replace(ConstantVariable.DOT, ConstantVariable.FORWARD_SLASH)
+                + ".xlsx").getFile();
+        logger.debug("Test data is loaded from file %s and the sheet is %s", filePath, sheetName);
+        return testMethod.getName().length() > 31 ? readExcelData.getTableArray(
+            filePath,
+            testMethod.getName().substring(0, 31)
+        ) : readExcelData.getTableArray(
+            filePath,
+            testMethod.getName()
+        );
     }
 
     @DataProvider(name = "testDataJSON")
     public Object[][] testDataProviderFromJSON(Method testMethod) throws Exception {
         var keyValue = testMethod.getName();
-        var filePath = "src/main/resources/"
-            + testMethod
-            .getDeclaringClass()
-            .getName()
-            .replace(ConstantVariable.DOT, ConstantVariable.FORWARD_SLASH)
-            + ".json";
-        Object[][] testObjArray = readJsonData.getJsonValues(filePath, keyValue);
-        return testObjArray;
+        var filePath = getClass()
+            .getClassLoader()
+            .getResource(testMethod
+                .getDeclaringClass()
+                .getName()
+                .replace(ConstantVariable.DOT, ConstantVariable.FORWARD_SLASH)
+                + ".json").getFile();
+        return readJsonData.getJsonValues(filePath, keyValue);
     }
 }

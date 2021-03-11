@@ -2,25 +2,28 @@ package com.claritybot.utility;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.InputStream;
+import java.util.Objects;
 import java.util.Properties;
+
+import static java.lang.String.format;
 
 /**
  * @author Manoj Hans
  **/
 public class PropertyReader {
 
-    private static final String path = String.format("%s/src/main/resources/config/", System.getProperty("user.dir"));
-    private static Properties prop = new Properties();
+    private static final Properties prop = new Properties();
 
     /***
      * It initialize the property file.
-     * @param fileName
+     * @param fileName: this is config file name
      */
     public PropertyReader(String fileName) {
-        InputStream input;
         try {
-            input = new FileInputStream(path + fileName);
+            var input = new FileInputStream(Objects.requireNonNull(getClass()
+                .getClassLoader()
+                .getResource(format("config/%s", fileName)))
+                .getFile());
             prop.load(input);
         } catch (IOException e) {
             e.printStackTrace();

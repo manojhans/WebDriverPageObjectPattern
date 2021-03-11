@@ -10,14 +10,14 @@ import org.openqa.selenium.WebDriver;
  **/
 public class LoginPage extends BasePage {
 
-    private By getUsername = By.id("email");
-    private By getPassword = By.id("passwd");
-    private By getLoginBtn = By.id("SubmitLogin");
-    private By getLoginError = By.xpath("//div[@class='alert alert-danger']//li");
+    private final By getUsername = By.id("email");
+    private final By getPassword = By.id("passwd");
+    private final By getLoginBtn = By.id("SubmitLogin");
+    private final By getLoginError = By.xpath("//div[@class='alert alert-danger']//li");
 
     public LoginPage(WebDriver driver) {
         super(driver);
-        if (!isElementPresent(getLoginBtn)) {
+        if (isElementPresent(getLoginBtn)) {
             throw new NoSuchWindowException("This is not a login page and page is: " + getTitle());
         }
     }

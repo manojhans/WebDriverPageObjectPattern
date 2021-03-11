@@ -10,11 +10,11 @@ import org.openqa.selenium.WebDriver;
  **/
 public class UserPage extends BasePage {
 
-    private By getVerifyUser = By.xpath("//a[@title='View my customer account']/span");
+    private final By getVerifyUser = By.xpath("//a[@title='View my customer account']/span");
 
     public UserPage(WebDriver driver) {
         super(driver);
-        if (!isElementPresent(getVerifyUser)) {
+        if (isElementPresent(getVerifyUser)) {
             throw new NoSuchWindowException("This is not a user page and page is: " + getTitle());
         }
     }

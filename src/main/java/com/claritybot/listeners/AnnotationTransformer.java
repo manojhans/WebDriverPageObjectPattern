@@ -8,6 +8,8 @@ import org.testng.annotations.ITestAnnotation;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
+import static java.lang.String.format;
+
 /**
  * @author Manoj Hans
  **/
@@ -17,7 +19,7 @@ public class AnnotationTransformer implements IAnnotationTransformer {
 
     @Override
     public void transform(ITestAnnotation annotation, Class testClass, Constructor testConstructor, Method testMethod) {
-        logger.info("Setting the retry analyzer for " + testMethod.getName());
+        logger.info(format("Setting the retry analyzer for %s", testMethod.getName()));
         annotation.setRetryAnalyzer(Retry.class);
     }
 }

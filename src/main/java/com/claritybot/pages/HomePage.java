@@ -10,11 +10,11 @@ import org.openqa.selenium.WebDriver;
  **/
 public class HomePage extends BasePage {
 
-    private By getSignInLink = By.xpath("//div[@class='header_user_info']/a");
+    private final By getSignInLink = By.xpath("//div[@class='header_user_info']/a");
 
     public HomePage(WebDriver driver) {
         super(driver);
-        if (!isElementPresent(getSignInLink)) {
+        if (isElementPresent(getSignInLink)) {
             throw new NoSuchWindowException("This is not a home page and page is: " + getTitle());
         }
     }

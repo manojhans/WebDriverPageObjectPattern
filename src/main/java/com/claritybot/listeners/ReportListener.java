@@ -19,7 +19,6 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.testng.Assert;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestNGMethod;
@@ -35,6 +34,9 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.Objects;
 
+import static java.lang.String.format;
+import static org.testng.Assert.assertTrue;
+
 /**
  * @author Manoj Hans
  **/
@@ -43,12 +45,11 @@ public class ReportListener implements ITestListener {
     private static final String ESCAPE_PROPERTY = "org.uncommons.reportng.escape-output";
     private static final Logger logger = LogManager.getLogger(ReportListener.class);
     private WebDriver driver;
-    private String[] reproSteps;
 
     private String reproSteps(ITestResult tr) {
-		var testNGMethod = tr.getMethod();
-		var method = testNGMethod.getConstructorOrMethod().getMethod();
-        Steps testAnnotation = (Steps) method
+        var testAnnotation = tr.getMethod()
+            .getConstructorOrMethod()
+            .getMethod()
             .getAnnotation(Steps.class);
         if (Objects.nonNull(testAnnotation)) {
             return testAnnotation.value();
@@ -58,12 +59,11 @@ public class ReportListener implements ITestListener {
     }
 
     public void onTestStart(ITestResult result) {
-        var executedClass = result.getInstance();
-        driver = ((BrowserInstance) executedClass).getDriver();
+        driver = ((BrowserInstance) result.getInstance()).getDriver();
         ExtentTestManager.startTest(result.getName());
         var className = result.getMethod().getTestClass().toString()
             .split("=")[1].replace("[", "").replace("]", "");
-		var cap = ((RemoteWebDriver) driver)
+        var cap = ((RemoteWebDriver) driver)
             .getCapabilities();
         ExtentTestManager.getTest().assignCategory(
             cap.getBrowserName() + " | " + cap.getPlatform() + " | "
@@ -75,9 +75,9 @@ public class ReportListener implements ITestListener {
     }
 
     public void onTestFailure(ITestResult result) {
-        reproSteps = reproSteps(result).split("<br>");
+        var reproSteps = reproSteps(result).split("<br>");
         ExtentTestManager.getTest().log(LogStatus.INFO, "Repro Steps: ");
-        for (String steps : reproSteps) {
+        for (var steps : reproSteps) {
             ExtentTestManager.getTest().log(LogStatus.INFO, steps);
         }
         ExtentTestManager.getTest().log(LogStatus.FAIL, "Failed: " + result.getThrowable());
@@ -93,19 +93,17 @@ public class ReportListener implements ITestListener {
     public String screenshot(ITestResult tr) {
         System.setProperty(ESCAPE_PROPERTY, "false");
         var date = new Date();
-        SimpleDateFormat dateFormat = new SimpleDateFormat("dd_MMM_yyyy_hh_mm_ssaa");
+        var dateFormat = new SimpleDateFormat("dd_MMM_yyyy_hh_mm_ssaa");
         var destination =
             Paths.get("test-output/screenshots", tr.getName() + dateFormat.format(date) + ".png").toFile();
         var parentDir = destination.getParentFile();
         if (!parentDir.exists()) {
-            Assert.assertTrue(
+            assertTrue(
                 parentDir.mkdirs(),
                 "Could not create directory \"" + parentDir.getAbsolutePath() + "\"."
             );
         }
-        var scrShot = (TakesScreenshot) driver;
-        var snapshot = scrShot.getScreenshotAs(OutputType.FILE);
-        snapshot.renameTo(destination);
+        ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE).renameTo(destination);
         return destination.getAbsolutePath();
     }
 
@@ -121,9 +119,9 @@ public class ReportListener implements ITestListener {
 
     private void uploadResultsToTestLink(ITestContext testContext) {
         var testLinkHost = PropertyReader.getProperty("TestLinkHost");
-		var testLinkProjectName = PropertyReader.getProperty("TestLinkProjectName");
-		var testLinkPlanName = PropertyReader.getProperty("TestLinkTestPlanName");
-		var testLinkBuildName = PropertyReader.getProperty("TestLinkBuildName");
+        var testLinkProjectName = PropertyReader.getProperty("TestLinkProjectName");
+        var testLinkPlanName = PropertyReader.getProperty("TestLinkTestPlanName");
+        var testLinkBuildName = PropertyReader.getProperty("TestLinkBuildName");
 
         if (Objects.nonNull(testLinkHost) && !testLinkHost.isEmpty()
             && Objects.nonNull(testLinkProjectName)
@@ -133,16 +131,16 @@ public class ReportListener implements ITestListener {
             && Objects.nonNull(testLinkBuildName)
             && !testLinkBuildName.isEmpty()) {
 
-			var devKey = PropertyReader.getProperty("TestLinkApiKey");
-            TestLinkAPI testLinkApi = null;
+            var devKey = PropertyReader.getProperty("TestLinkApiKey");
+            TestLinkAPI testLinkApi;
 
             try {
-				var testLinkURL = new URL(testLinkHost + "/lib/api/xmlrpc.php");
+                var testLinkURL = new URL(testLinkHost + "/lib/api/xmlrpc.php");
                 testLinkApi = new TestLinkAPI(testLinkURL, devKey);
 
-				var testPlan = testLinkApi.getTestPlanByName(
+                var testPlan = testLinkApi.getTestPlanByName(
                     testLinkPlanName, testLinkProjectName);
-				var testBuild = getTestBuild(testLinkBuildName, testLinkApi,
+                var testBuild = getTestBuild(testLinkBuildName, testLinkApi,
                     testPlan
                 );
 
@@ -182,27 +180,26 @@ public class ReportListener implements ITestListener {
         Build testBuild, ExecutionStatus status,
         Collection<ITestNGMethod> testNgMethods
     ) {
-        for (ITestNGMethod testMethod : testNgMethods) {
-            String testMethodName = testMethod.getMethodName();
-            String[] testCaseIds = getExternalIdsFromAnnotations(
+        for (var testMethod : testNgMethods) {
+            var testMethodName = testMethod.getMethodName();
+            var testCaseIds = getExternalIdsFromAnnotations(
                 testMethod,
                 testMethodName
             );
 
             if (testCaseIds.length == 0) {
-                logger.debug(String.format(
+                logger.debug(format(
                     "Method [%s] hasn't associated cases from TestLink",
                     testMethodName
                 ));
                 continue;
             }
 
-            logger.debug(String
-                .format("Update execution result of test method [%s] to TestLink cases %s",
-                    testMethodName, Arrays.toString(testCaseIds)
-                ));
+            logger.debug(format("Update execution result of test method [%s] to TestLink cases %s",
+                testMethodName, Arrays.toString(testCaseIds)
+            ));
 
-            for (String extId : testCaseIds) {
+            for (var extId : testCaseIds) {
                 try {
                     TestCase testLinkCase = testLinkApi
                         .getTestCaseByExternalId(extId, null);
@@ -228,7 +225,7 @@ public class ReportListener implements ITestListener {
         ITestNGMethod testMethod,
         String testMethodName
     ) {
-        String[] testCaseIds = new String[0];
+        var testCaseIds = new String[0];
         try {
             testCaseIds = StringUtils.stripAll(getTestCaseIds(
                 testMethod,
@@ -249,10 +246,10 @@ public class ReportListener implements ITestListener {
         ITestNGMethod testMethod,
         String testMethodName
     ) throws NoSuchMethodException {
-		var method = Arrays.stream(testMethod.getRealClass().getMethods())
+        var method = Arrays.stream(testMethod.getRealClass().getMethods())
             .filter(m -> testMethodName.equals(m.getName())).findFirst()
             .orElseThrow(NoSuchMethodException::new);
-        TestCaseId annotation = method.getAnnotation(TestCaseId.class);
+        var annotation = method.getAnnotation(TestCaseId.class);
 
         if (Objects.nonNull(annotation)) {
             return annotation.value().trim().split("[,| ]");

@@ -3,7 +3,6 @@ package com.claritybot.utility;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.CellType;
-import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
@@ -18,15 +17,13 @@ public class ReadExcelData {
 
     private static final Logger logger = LogManager.getLogger(ReadExcelData.class.getName());
     private XSSFSheet excelSheet;
-    private XSSFWorkbook excelBook;
-    private XSSFCell cell;
 
     public Object[][] getTableArray(String FilePath, String SheetName) {
         Object[][] tabArray = null;
         try {
             var excelFile = new FileInputStream(FilePath);
             // Access the required test data sheet
-            excelBook = new XSSFWorkbook(excelFile);
+            XSSFWorkbook excelBook = new XSSFWorkbook(excelFile);
             excelSheet = excelBook.getSheet(SheetName);
             int startRow = 1;
             int startCol = 0;
@@ -46,31 +43,24 @@ public class ReadExcelData {
                 }
             }
         } catch (FileNotFoundException e) {
-            logger.info("Could not find the Excel sheet");
-            e.printStackTrace();
+            logger.info("Could not find the Excel sheet ", e);
         } catch (IOException e) {
-            logger.info("Could not read the Excel sheet");
-            e.printStackTrace();
+            logger.info("Could not read the Excel sheet", e);
         }
-        return (tabArray);
+        return tabArray;
     }
 
-    public Object getCellData(int RowNum, int ColNum) throws Exception {
-        try {
-            cell = excelSheet.getRow(RowNum).getCell(ColNum);
-            Enum dataType = cell.getCellType();
-            Object cellData;
-            if (dataType == CellType.BLANK) {
-                return "";
-            } else if (dataType == CellType.NUMERIC) {
-                cellData = cell.getRawValue();
-                return cellData;
-            } else {
-                cellData = cell.getStringCellValue();
-                return cellData;
-            }
-        } catch (Exception e) {
-            throw (e);
+    public Object getCellData(int rowNum, int colNum) {
+        Object cellData = "";
+        var cell = excelSheet.getRow(rowNum).getCell(colNum);
+        var dataType = cell.getCellType();
+        if (dataType == CellType.BLANK) {
+            return cellData;
+        } else if (dataType == CellType.NUMERIC) {
+            cellData = cell.getRawValue();
+        } else {
+            cellData = cell.getStringCellValue();
         }
+        return cellData;
     }
 }
